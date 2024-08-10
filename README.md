@@ -6,7 +6,6 @@ This project centers around the implementation of Siamese Neural Networks for on
 - [Introduction](#introduction)
 - [Features](#features)
 - [Illustration](#illustration)
-- [Installation](#installation)
 
 ## Introduction
 
