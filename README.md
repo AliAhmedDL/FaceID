@@ -24,5 +24,4 @@ Subsequently, we rigorously tested the model, and the final outcomes were deemed
 ## Features
 
 - Set GPU growth
-- The Trained model
 - Jupyter notebook for the code
